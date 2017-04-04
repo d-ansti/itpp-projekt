@@ -1,2 +1,1 @@
-# itpp-projekt
-ITPP Projekt Webseite
+# ITPP Projekt Webseite
