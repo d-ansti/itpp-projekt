@@ -1,0 +1,70 @@
+* {
+    padding:0;
+    margin: 0;
+}
+
+.myheader {
+    text-align: center;margin: 0!important;
+    padding: 1em;;
+    color:white;font-family: 'Ubuntu', sans-serif;
+    font-size: 40pt;
+    z-index: 10000000000;
+
+}
+
+.page-myheader {
+   /* background-color: #ff9b0f;margin: 0!important;*/
+    padding: 0!important;
+}
+
+.head {
+  background-color: #5bc117;
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.mynavstyle {
+    background-color: #5bc117;
+}
+
+.navbar-nav li a {
+    color:white;
+    color:white;font-family: 'Ubuntu', sans-serif;
+    font-size: 13pt;
+    background-color: #5bc117;
+}
+
+.icon-bar {
+    background-color: white;
+}
+
+.jumbotron {
+    margin-top: 1em;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.playnowbtn {
+    background-color: #5bc117;
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif!important;
+}
+
+ul.dropdown-menu {
+    background-color: #5bc117;
+}
+
+ul.dropdown-menu li a {
+    color: white;
+}
+
+ul.navbar-nav li a:hover, ul.navbar-nav li a:active,ul.navbar-nav li a:link,ul.navbar-nav li a:target {
+    background-color: rgba(255,255,255,0.23);
+    color: white;
+}
+
+.content {
+  background-color: #5bc117;
+}

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -241,5 +240,3 @@
 <script src="js/app.js"></script>
 </body>
 </html>
-
-
