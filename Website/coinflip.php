@@ -3,17 +3,18 @@ include 'header.php';
 include 'top.php';
 ?>
 
-<div class="container">
-
-<?php
-
-if (mt_rand(0, 1) == 0) {
-  echo "<img src=\"../img/heads.gif\">HEADS!";
-} else {
-  echo "<img src=\"../img/tails.gif\">TAILS!";
+<script>
+function coinflip() {
+  if (Math.round(Math.random()) == 0) {
+    <img src="../img/heads.gif">HEADS!
+  } else {
+    <img src="../img/tails.gif">
+  }
 }
+</script>
 
-?>
+<div class="container">
+<button type="submit" class="login-button" onClick="coinflip();">Flip</button>
 
 </div>
 
